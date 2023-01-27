@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pyexcept"
+version = "0.0.4"
+authors = [
+  { name="minetezter", email="minetezter@protonmail.net" },
+]
+description = "Create custom new exceptions, choose from existing exceptions, raise your custom exceptions and messages, and more!"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
+    "Operating System :: POSIX :: Linux",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Minetezter/pyexceptions"
+"Bug Tracker" = "https://github.com/Minetezter/pyexceptions/issues"
