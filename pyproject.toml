@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "pyexcept"
-version = "0.0.4"
+version = "0.0.5"
 authors = [
   { name="minetezter", email="minetezter@protonmail.net" },
 ]
@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/Minetezter/pyexceptions"
-"Bug Tracker" = "https://github.com/Minetezter/pyexceptions/issues"
+"Homepage" = "https://github.com/Minetezter/pyexcept"
+"Bug Tracker" = "https://github.com/Minetezter/pyexcept/issues"
